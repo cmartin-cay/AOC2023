@@ -20,3 +20,5 @@ for race in infile:
     wins.append(calc_record(time, distance))
 
 print(wins)
+
+# The real Part 2 solution is a quadratic equation
